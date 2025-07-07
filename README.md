@@ -1,6 +1,6 @@
 # RoastCo Coffee Category Insights Analysis
 
-Focuses on a real-world analysis scenario at a national Canadian coffee company, **RoastCo**, using POS data. As part of the Brand Insights team, being tasked with uncovering what drives coffee category growth, and how pricing, promotions, shelf presence, and assortment interact to shape performance.
+RoastCo, a prominent Canadian coffee company, presents a practical business intelligence challenge centered on point-of-sale data analysis. Working within the Brand Insights team, I investigate the key factors behind coffee category expansion and examine how pricing strategies, promotional campaigns, shelf positioning, and product variety work together to influence overall market performance
 
 ## usiness Context
 
