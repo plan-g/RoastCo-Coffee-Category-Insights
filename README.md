@@ -2,7 +2,7 @@
 
 RoastCo, a prominent Canadian coffee company, presents a practical business intelligence challenge centered on point-of-sale data analysis. Working within the Brand Insights team, I investigate the key factors behind coffee category expansion and examine how pricing strategies, promotional campaigns, shelf positioning, and product variety work together to influence overall market performance
 
-## usiness Context
+## Business Context
 
 RoastCo competes in both premium and mainstream formats across major retailers. With promotional pressure, changing consumer habits, and growing competition from pods and private label, understanding sales levers at the SKU level is essential.
 
